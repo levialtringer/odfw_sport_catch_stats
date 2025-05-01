@@ -9,7 +9,7 @@ All data collection and cleaning were perfomed in R (version 4.4.1), as was the 
   1. `clean_data.R`
   2. `app.R`
   3. data
-    4. `waterbody_information.csv`
-    2. `odfw.RData`
+     1. `waterbody_information.csv`
+     2. `odfw.RData`
 
 While I was able to acheive general automation in extracting and cleaning the data, slight nuances in the naming and structure of PDFs across years required some *ad hoc* solutions. In so far as the location and naming of the data on the [ODFW website](https://www.dfw.state.or.us/resources/fishing/sportcatch.asp) don't change, the code provided in `clean_data.R` should generate an `odfw.RData` file that is then used in `app.R`. Otherwise, I've provided a copy of `odfw.RData` in the repository. The `waterbody_information.csv` file is called in `clean_data.R` and simply provides a more legible waterbody name for each waterbody code.
