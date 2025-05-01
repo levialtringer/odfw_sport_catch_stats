@@ -1,5 +1,4 @@
 
-
 # load necessary libraries:
 library(shiny)
 library(bslib)
@@ -11,8 +10,7 @@ library(scales)
 library(stringr)
 
 # pull in data (.RData used for efficient loading)
-load("odfw.RData")
-
+load("data/odfw.RData")
 
 # trends plot:
 time_series <- function(wb,species) {
@@ -52,7 +50,6 @@ time_series <- function(wb,species) {
   g1
   
 }
-
 
 # seasonality plot:
 month_plot <- function(wb,species) {
@@ -95,7 +92,6 @@ month_plot <- function(wb,species) {
   g2
   
 }
-
 
 # define UI ----
 ui <- page_sidebar(
