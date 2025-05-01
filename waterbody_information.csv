@@ -1,0 +1,249 @@
+WB_CODE,WB_NAME
+1,Astoria (Coastal Port)
+2,Nehalem Bay (Coastal Port)
+3,Garibaldi (Coastal Port)
+4,Netarts Bay (Coastal Port)
+5,Cape Kiwanda & Pacific City (Coastal Port)
+6,Salmon River (Coastal Port)
+7,Siletz Bay (Coastal Port) 
+8,Depoe Bay (Coastal Port)
+9,Newport (Coastal Port)
+10,Waldport (Coastal Port)
+11,Florence (Coastal Port)
+12,Winchester Bay (Coastal Port)
+13,Charleston (Coastal Port)
+14,Bandon (Coastal Port)
+15,Port Orford (Coastal Port)
+16,Gold Beach (Coastal Port)
+17,Brookings (Coastal Port)
+18,Gearhart Beach N. to Astoria (Coastal Port)
+19,Cannon Beach (Coastal Port)
+20,Sunset Bay (Coastal Port)
+21,Alsea River & Bay (Coastal Port)
+22,Alsea River - North Fork
+23,Alsea River - South Fork
+24,Applegate River
+25,Beaver Creek (Lincoln County)
+26,Beaver Creek (Tillamook County)
+27,Big Creek (Lane County)
+28,Big Elk Creek (Yaquina River)
+29,Brush Creek (Curry County)
+30,Cape Creek
+31,Chetco River and Bay (INACTIVE)
+32,Cook Creek (Nehalem River)
+33,Coos River & Bay
+34,Coos River - South Fork
+35,Coquille River & Bay
+36,Coquille River - North Fork
+37,Coquille River - East Fork
+38,Coquille River - South Fork
+39,Coquille R - Middle Fork
+40,Cummins Creek
+41,Devil's Lake
+42,Deadwood Creek (Siuslaw River)
+43,Drift Creek (Alsea River)
+44,Drift Creek (Siletz River)
+45,Eel Creek & Lake
+46,Elk Creek (Clatsop County)
+47,Elk River
+48,Euchre Creek
+49,Fall Creek (Alsea River)
+50,Five Rivers (Alsea River)
+51,Floras Creek & New River
+52,Cow Creek
+53,Fourmile Creek (Coos County)
+54,Hunter Creek 
+55,Illinois River
+56,Indian Creek (Siuslaw River)
+57,Kilchis River
+58,Lake Creek (Siuslaw River)
+59,Lobster Creek (Alsea River)
+60,Miami River
+61,Middle Creek (Coquille River)
+62,Millicoma River
+63,Millicoma River - East Fork
+64,Millicoma River - West Fork
+65,Necanicum River
+66,Nehalem River & Bay (below Hwy 26/Elsie)
+67,Nehalem River - North Fork
+68,Munsel Lake
+69,Nestucca River & Bay
+70,Little Nestucca River
+71,Pistol River
+72,Rock Creek (Lane County)
+73,Rock Creek (Nehalem River)
+74,Rock Creek (Siletz River)
+75,Soapstone Creek
+76,Rogue River - Lower River & Bay
+77,Salmon River (Coast)
+78,Salmonberry River
+79,Sand Lake
+80,Schooner Creek (Siletz River)
+81,Siletz River & Bay
+82,Siletz River - North Fork
+83,Siletz River - South Fork
+84,Siltcoos River & Lake
+85,Siuslaw River & Bay
+86,Siuslaw River - North Fork
+87,Sixes River
+88,Slick Rock Creek (Salmon River)
+89,Smith River
+90,Smith River - North Fork
+91,Sutton Creek & Lake
+92,Sweet Creek (Siuslaw River)
+93,Tahkenitch Creek & Lake
+94,Tenmile Creek & Lake (Coos County)
+95,Tenmile Creek (Lane County)
+96,Three Rivers
+97,Tillamook Bay
+98,Tillamook River
+99,Trask River
+100,Trask River - North Fork
+101,Trask River - South Fork
+102,Umpqua River & Bay
+103,Umpqua River - North Fork (below Winchester Dam)
+104,Umpqua River - South Fork
+105,Wilson River
+106,Wilson River - South Fork
+107,Wilson River - Little North Fork
+108,Winchuck River
+109,Woahink Lake
+110,Yachats River
+111,Yaquina River & Bay
+112,Abernathy Creek (Clackamas River)
+113,Abiqua Creek (Pudding River)
+114,Bear Creek  (Clatsop County)
+115,Beaver Creek (Columbia County)
+116,Big Creek (Clatsop County)
+117,Bull Run River
+118,Butte Creek (Pudding River)
+119,Calapooia River
+120,Catherine Creek
+121,Chenoweth Creek
+122,Clackamas River (below Carver Bridge)
+123,Clatskanie River
+124,Clear Creek (Clackamas River)
+125,Collowash River
+126,Collawash River (Hot Springs Fork)
+127,Columbia River (Lower)
+128,Columbia R (Upper)
+129,Crabtree Creek (Santiam River)
+130,Deep Creek (Clackamas River)
+131,Deschutes River (below Sherars Falls)
+132,Eagle Creek (Clackamas River)
+133,Eagle Creek  (Columbia River)
+134,Fall Creek (Willamette River)
+135,Fifteenmile Creek
+136,Foster Reservoir
+137,Gales Creek (Tualitin River)
+138,Gnat Creek
+139,Mosby Creek (Willamette River - Coast Fork)
+140,Herman Creek (Columbia River)
+141,Lost Creek (Willamette River - Middle Fork)
+142,Hood River - East Fork
+143,Hood River - West Fork
+144,Imnaha River
+145,John Day River
+146,John Day River - Middle Fork
+147,John Day River - North Fork
+148,Johnson Creek (Willamette River)
+149,Big Sheep Creek (from mouth to Little Sheep Creek)
+150,Blind/Knappa Slough
+151,Klaskanine River
+152,Klaskanine River - North Fork
+153,Klaskanine River - South Fork
+154,Lewis & Clark River
+155,McKenzie River (below Leaburg Dam)
+156,Luckiamute & Little Luckiamute River
+157,Mary's River
+158,McKenzie River (above Leaburg Dam)
+159,Mill Creek (Marion County)
+160,Mill Creek (Wasco County)
+161,Mill Creek (Yamhill County)
+162,Milton Creek (Columbia County)
+163,Minam River
+164,Molalla River
+165,Rickreal Creek
+166,Rickreall Creek
+167,Salmon River (Sandy River)
+168,Sandy River (from mouth to Revenue Bridge)
+169,Santiam River
+170,Santiam River - North Fork
+171,Santiam River - Little North Fork
+172,Santiam River - South Fork
+173,Scappoose Creek
+174,Scappoose Creek - North Fork
+175,Scappose Creek - South Fork
+176,Snake River
+177,Sucker Creek
+178,Tanner Creek
+179,Thomas Creek (Santiam River)
+180,Tualatin River
+181,Umatilla River
+182,Walla Walla River
+183,Springfield Mill Race
+184,Wenaha River
+185,Willamette River & Slough (below Oregon City Falls)
+186,Willamette River (above Oregon City Falls)
+187,Alton Baker Canoe Canal (Willamette River)
+188,Willamette River - Middle Fork
+189,Willamina Creek
+190,Yamhill River
+191,Yamhill River - North Fork
+192,Yamhill River - South Fork
+193,Youngs River & Bay
+194,Tioga Creek
+195,Siver Creek
+196,Plympton Creek
+197,Skipanon River
+200,Rogue River (Upper)
+201,North Umpqua River (from Winchester Dam to Rock Creek)
+202,Clackamas River Sytem (above North Fork Dam) 
+203,Deschutes River (above Sherars Falls & White River)
+204,Nehalem River (above Hwy 26/Elsie)
+205,Sandy River (from Revenue Bridge to Salmon River)
+206,Calapooya Creek (Umpqua River)
+207,Little River (North Umpqua River)
+208,John Day Arm
+209,Little Fall Creek (Willamette River)
+210,Willamette River - Coast Fork
+211,Columbia River - Mainstem (Buoy 10 to Astoria Bridge)
+212,Columbia River - Mainstem (above Astoria Bridge to Longview Bridge)
+213,Columbia River - Mainstem (above Longview Bridge to I-5 Bridge)
+214,Columbia River - Mainstem (above I-5 Bridge to Bonneville Dam)
+215,Columbia River - Mainstem (Bonneville Damto the Dalles Dam)
+216,Columbia River - Mainstem (above the Dalles Dam to John Day Dam)
+217,Columbia River - Mainstem (above John Day Dam to McNary Dam)
+218,Columbia River - Mainstem (above McNary Dam to Stateline)
+219,North Umpqua River (from Rock Creek to Soda Springs - Fly Area)
+220,LONG TOM
+221,Row River
+222,Wiley Creek (Santiam River)
+223,Blue River (McKenzie River)
+224,Neskowin Creek
+225,Rogue River (Bay up to Elephant Rock)
+226,Rogue R (Elephant Rock to Grave Creek)
+227,Rogue River (Grave Creek to Fishers Ferry Boat Ramp)
+228,Rogue River (above Fishers Ferry Boat Ramp)
+229,Hood River (mouth to Powerdale Dam)
+230,Hood River (above Powerdale Dam)
+231,Grande Ronde River (from Stateline to Wildcat Bridge)
+232,Grande Ronde River (from Wildcat Bridge to Island City Bridge)
+233,Grande Ronde River (above Island City Bridge)
+234,Wallowa River (mouth to Minam State Park)
+235,Wallowa River (above Minam State Park)
+236,Umatilla River (below Three-Mile Dam)
+237,Umatilla River (above Nolin)
+238,John Day River (below Cottonwood Bridge)
+239,John Day River (above Cottonwood Bridge)
+240,Isthmus Slough (Coos Bay)
+241,Lookingglass Creek
+242,Powder River
+243,Umatilla River (above Three-Mile Dam to Nolin)
+244,Sandy River (above Salmon River)
+245,Clackamas River (above Carver Bridge to Bakers Ferry Road)
+246,Clackamas River (above Bakers Ferry Road to River Mill Dam)
+247,Clackamas River (above River Mill Dam to Cazadero Dam)
+248,Chetco River & Bay (up to Nook Creek)
+249,Chetco River & Bay (above Nook Creek)
+250,John Day River (Clatsop County)
