@@ -18,8 +18,8 @@
 #   "several reasons. Errors may arise from anglers incorrectly reporting locations, dates, and/or species of catches; 
 #   "or from errors in data entry caused by difficult-to-read harvest cards."
 
-# The result of running this script is a dataframe that contains monthly reported sport catch data for nearly XXX water 
-# bodies in Oregon over the 1996-2018 period.
+# The result of running this script is a dataframe that contains monthly reported sport catch data for nearly 230 water 
+# bodies in Oregon over the 1996-2024 period.
 
 # The structure of the script is:
 # 1) PREAMBLE (setting up the R environment)
@@ -426,12 +426,12 @@ df <- merge(crosswalk, df, by=c("WB_CODE", "SPECIES", "MONTH", "YEAR"), all.x = 
 rm(crosswalk)
 
 # Bring in consistent and legible waterbody names:
-names_df <- read.csv("waterbody_information.csv")
+names_df <- read.csv("data/waterbody_information.csv")
 df <- merge(df, names_df, by="WB_CODE", all.x = T); rm(names_df)
 df <- df[,c("WB_CODE", "WB_NAME", "SPECIES", "MONTH", "YEAR", "CATCH")]
 
 # Write data:
-save(df, file = "odfw.RData")
+save(df, file = "data/odfw.RData")
 
 ########################################################################################################################
 
