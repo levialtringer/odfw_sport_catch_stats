@@ -129,13 +129,14 @@ ui <- page_sidebar(
     nav_panel("Trends", plotlyOutput("TSplot")),
     nav_panel("Seasonality", plotlyOutput("Mplot")),
     nav_panel("About", 
-              HTML("<p>As an avid fly fisherman with Pacific Northwest roots, I found the 
-                    <a href='https://www.dfw.state.or.us/resources/fishing/sportcatch.asp'>Oregon Department of Fish & 
-                    Wildlife (ODFW) sport catch statistics</a> data, stored in cumbersome PDFs and CSVs, difficult to navigate.
-                    To address this, I’ve developed this simple Shiny application that allows users to easily explore 
-                    trends and seasonal patterns in reported salmon and steelhead catch statistics by waterbody. 
-                    While this harvest data is unverified by ODFW, it offers 
-                    valuable heuristics for new anglers seeking information on when and where to target these species.</p>"))
+              HTML("<p>The <a href='https://www.dfw.state.or.us/resources/fishing/sportcatch.asp'>Oregon Department of 
+                    Fish & Wildlife (ODFW) sport catch statistics</a> data, stored in cumbersome PDFs and CSVs, are 
+                    difficult to navigate and not easily digestible. To address this, I’ve developed this simple Shiny 
+                    application that allows users to easily explore trends and seasonal patterns in reported salmon and 
+                    steelhead catch statistics by waterbody. While this harvest data is unverified by ODFW, it offers 
+                    a heuristic for new anglers seeking information on when and where to target these species. The code 
+                    to replicate this application can be found <a href='https://github.com/levialtringer/odfw_sport_catch_stats'>
+                    here</a> and information about the author can be found <a href='https://levialtringer.com/'>here</a>.</p>"))
   )
   
 )
