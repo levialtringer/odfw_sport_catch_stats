@@ -1,4 +1,4 @@
-# Explore ODFW Sport Catch Statistics
+# ODFW Sport Catch Statistics
 
 The Oregon Department of Fish & Wildlife (ODFW) sport catch statistics data are stored in cumbersome PDFs and CSVs, which limits the utility of these data. To address this, I’ve developed a simple Shiny application that allows users to easily explore trends and seasonal patterns in reported salmon and steelhead catch statistics by waterbody. While this harvest data is unverified by ODFW, it offers a heuristics for new anglers seeking information on when and where to target these species. The application can be accessed [here](https://levialtringer.shinyapps.io/odfw_sport_catch_stats/ "ODFW Sport Catch Statistics App").
 
